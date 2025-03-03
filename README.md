@@ -1,2 +1,2 @@
-# Adaversarial-Attack-paper-on-diffusion-models
-Adaversarial Attack paper on diffusion models
+# Adversarial-Attack-paper-on-diffusion-models
+Adversarial Attack paper on diffusion models
